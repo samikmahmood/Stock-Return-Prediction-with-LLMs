@@ -26,7 +26,10 @@ Important: Once the key is generated, it will be displayed only once. Copy it im
 **Getting the NewsAPI Key**
 
 Step 1: Visit the NewsAPI Website: Go to https://newsapi.org/.
+
 Step 2: If you don’t have an account, sign up using an email address and password. If you already have an account, simply log in.
+
 Step 3: Once logged in, go to the Home Page. There, you should see an option to generate or view your API key: "Get API Key".
+
 Step 4: Copy the API key and keep it secure. You’ll need it to authenticate requests to NewsAPI when fetching news data.
 
