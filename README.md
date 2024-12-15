@@ -5,8 +5,11 @@ The code follows Lopez-Lira and Tang (2023) for stock return prediction.
 **Getting the OpenAI's API Key**
 
 Prerequisites
+
 Before you begin, ensure you have the following:
+
 Valid Email Address: You'll need access to a valid email for account verification.
+
 Payment Method: A credit/debit card or other accepted payment method for billing purposes.
 
 Step 1: Visit OpenAI’s Official Website
