@@ -35,11 +35,11 @@ Step 1: Visit the NewsAPI Website: Go to https://newsapi.org/.
 
 Step 2: If you don’t have an account, sign up using an email address and password. If you already have an account, simply log in.
 
-References:
-
-Lopez-Lira, Alejandro and Tang, Yuehua, Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models (April 6, 2023). Available at SSRN: https://ssrn.com/abstract=4412788 or http://dx.doi.org/10.2139/ssrn.4412788
-
 Step 3: Once logged in, go to the Home Page. There, you should see an option to generate or view your API key: "Get API Key".
 
 Step 4: Copy the API key and keep it secure. You’ll need it to authenticate requests to NewsAPI when fetching news data.
+
+References:
+
+Lopez-Lira, Alejandro and Tang, Yuehua, Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models (April 6, 2023). Available at SSRN: https://ssrn.com/abstract=4412788 or http://dx.doi.org/10.2139/ssrn.4412788
 
