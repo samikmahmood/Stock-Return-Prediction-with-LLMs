@@ -1,5 +1,5 @@
 # ML09-Guest-Lecture
-Github Repository for the ML09 Guest Lecture on "Textual Analysis, ChatGPT and Stock Return Prediction" (24 Oct 2024). 
+Github Repository for the ML09 Guest Lecture on "Textual Analysis, ChatGPT and Stock Return Prediction". 
 The code follows Lopez-Lira and Tang (2023) for stock return prediction.
 
 **Getting the OpenAI's API Key**
