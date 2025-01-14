@@ -118,7 +118,6 @@ all_articles = newsapi.get_everything(q='AAPL',
                                       page=1)
 
 
-# In[ ]:
 
 
 import pandas as pd
@@ -126,15 +125,11 @@ articles = all_articles['articles']
 df = pd.json_normalize(articles)
 
 
-# In[ ]:
-
-
 df[:5]
 
 
 # # Get Headline Labels from ChatGPT
 
-# In[ ]:
 
 
 # Function to interact with ChatGPT for financial analysis
@@ -162,15 +157,9 @@ def assess_headline(headline, company_name='Apple'):
     return answer, explanation
 
 
-
-# In[ ]:
-
-
 # Iterate over each headline in the DataFrame and call ChatGPT for assessment
 df[['sentiment', 'explanation']] = df['title'].apply(lambda headline: pd.Series(assess_headline(headline)))
 
-
-# In[ ]:
 
 
 # Export as CSV
